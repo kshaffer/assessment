@@ -1,4 +1,3 @@
-
 # Self evaluation #
 
 The ability to evaluate one's own progress is an essential skill for any educated person, especially professional musicians. The ability to communicate one's mastery of various relevant topics and skills accurately and concisely is essential to finding and keeping a job. Finally, the ability to determine an appropriate level of mastery based on the material, and not on a rubric given by a superior, is one of the key marks of an educated person and independent learner. Further, it is essential if one wants to be successful in new ventures over the course of a career, not simply in a single career track the first few years after graduation.
@@ -28,6 +27,16 @@ Assessment will take place in reference to the following list of criteria:
 - Liberal education values
 
 It is the responsibility of the student to determine the appropriate content and standards of mastery for each of these criteria in a given unit of study, based on course material, activities, and conversations with peers and instructor.
+
+## Letter grades ##
+
+Following are general guidelines for letter grades:
+
+- A: Student has excelled in this area and demonstrated mastery over it.  
+- B: Student has sufficient working knowledge of this area to move on to next unit/course with no need for extra review/remediation.  
+- C: Student is ready to proceed to next unit/semester, but only after review or correction of some of the material.  
+- D: Student demonstrates significant lack of understanding/mastery, and will not likely be able to proceed to next unit/semester without substantial review or repeating the course.  
+- F: Student made no significant attempt to master this material.
 
 # License #
 
